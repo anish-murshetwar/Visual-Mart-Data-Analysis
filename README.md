@@ -13,7 +13,7 @@ Visual-Mart Data Analysis is aimed at deriving insights from a retail dataset co
 
 ## DashBoard Overview
 
-       <img width="1311" height="742" alt="Screenshot 2025-10-23 165748" src="https://github.com/user-attachments/assets/b240a1e1-89e5-4eb2-8231-a32944eb1ef8" />
+<img width="1311" height="742" alt="Screenshot 2025-10-23 165748" src="https://github.com/user-attachments/assets/b240a1e1-89e5-4eb2-8231-a32944eb1ef8" />
 
 
 ## Key features
